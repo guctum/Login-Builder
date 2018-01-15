@@ -1,6 +1,7 @@
-﻿'Author: Greg Uctum
+﻿'Owner/Writer: Greg Uctum
 'Date: 2/27/2015
-'Assignment: Extra Credit Lab
+'Updated: 1/14/2018
+'Title: Extra Credit Login Generator
 Option Strict On
 
 Imports System.Text
